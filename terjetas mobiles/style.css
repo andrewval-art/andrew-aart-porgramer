@@ -13,7 +13,8 @@ body{
 }
 .cards{
     display: flex;
-    padding:20px;  
+    padding:  20px;  
+    
 }
 
 .cards .card{
@@ -31,7 +32,10 @@ body{
 
     transition: all 0.3s ease;
 }
+.text{
+    text-decoration: none;
 
+}
 .cards .card a{
     color: yellow;
     text-decoration: none;
@@ -40,6 +44,8 @@ body{
 .cards .card a:hover{
     color: lightyellow;
 }
+
+
 
 .cards .card .header{
     flex: 1;
