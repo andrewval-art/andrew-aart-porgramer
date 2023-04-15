@@ -8,12 +8,12 @@ body{
     display: flex;
     padding: 0;
     margin-inline-end: 0%;
-    margin: 1%;
+    margin: 0%;
 
 }
 .cards{
     display: flex;
-    padding:  20px;  
+    margin: 0%;
     
 }
 
